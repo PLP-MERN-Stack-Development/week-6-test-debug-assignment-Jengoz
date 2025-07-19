@@ -1,0 +1,4 @@
+// filepath: c:\Users\admin\MERN_Assignments\week-6-test-debug-assignment-Jengoz\mern-bug-tracker\server\babel.config.json
+{
+  "presets": ["@babel/preset-env"]
+}
